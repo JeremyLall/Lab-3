@@ -5,6 +5,7 @@ import java.text.DecimalFormat;
 
 public class SciCalculator
 {
+    //Main Program
     public static void main(String[] args)
     {
         //Prepares scanner for use
